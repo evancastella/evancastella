@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Evan 👋
 
-<!--
-**evancastella/evancastella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build full-stack web tools in my free time — mostly projects centered on aid, transparency, and helping people access information quickly during a crisis.
 
-Here are some ideas to get you started:
+**Stack:** React · Next.js · JavaScript · Prisma · PostgreSQL
+I put extra care into security headers and data handling, even on free/passion projects — treating them with the same rigor as production software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 [UkraineAidMap](https://ukraineaidmap.org)
+An interactive map built to help people quickly locate and understand humanitarian aid resources related to the war in Ukraine. Built to be fast, clear, and usable under pressure — the kind of tool that has to work right the first time, since people relying on it don't have time to figure out a confusing UI.
+
+## 📦 [AidTrack](https://aidtrack.org)
+A tool for tracking and organizing aid resources so NGOs and volunteers can see what's available, where, and what still needs coordinating. Focused on turning scattered information into something usable at a glance.
+
+---
+
+Both projects are free and open — I built them because I wanted them to exist, not because anyone asked me to. That's generally how I approach things I care about: full effort, no shortcuts, even when there's no paycheck attached.
