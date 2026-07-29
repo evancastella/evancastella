@@ -1,6 +1,6 @@
 # Hi, I'm Evan 👋
 
-I build full-stack web tools in my free time — mostly projects centered on aid, transparency, and helping people access information quickly during a crisis.
+I build full-stack web tools in my free time. Mostly projects centered on aid, transparency, and helping people access information quickly during a crisis.
 
 **Stack:** React · Next.js · JavaScript · Prisma · PostgreSQL
 I put extra care into security headers and data handling, even on free/passion projects, treating them with the same rigor as production software.
